@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.png
+runs/
+dqn_runs/
+ppo_runs/
+compare_out_ppo/
+plot_norm_rnn/
+viz_out/
+results_example/
+results_all_deterministic/
