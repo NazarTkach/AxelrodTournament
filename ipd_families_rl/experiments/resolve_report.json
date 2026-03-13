@@ -1,0 +1,37 @@
+{
+  "catalog_path": "axelrod_catalog_100.json",
+  "in_train": "train.json",
+  "in_test": "test.json",
+  "out_train": "train_resolved.json",
+  "out_test": "test_resolved.json",
+  "counts": {
+    "train_in": 84,
+    "train_ok": 84,
+    "train_missing": 0,
+    "train_ambiguous": 0,
+    "test_in": 20,
+    "test_ok": 17,
+    "test_missing": 3,
+    "test_ambiguous": 0
+  },
+  "train_missing": [],
+  "train_ambiguous": [],
+  "test_missing": [
+    {
+      "qualname": "Go By Majority 5",
+      "name": "Go By Majority 5",
+      "family": "Family_4"
+    },
+    {
+      "qualname": "Go By Majority 10",
+      "name": "Go By Majority 10",
+      "family": "Family_4"
+    },
+    {
+      "qualname": "Go By Majority 20",
+      "name": "Go By Majority 20",
+      "family": "Family_4"
+    }
+  ],
+  "test_ambiguous": []
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "qualname": "Golden",
+    "name": "$\\phi$",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Adaptive",
+    "name": "Adaptive",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Alexei",
+    "name": "Alexei",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "AntiCycler",
+    "name": "AntiCycler",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "AON2",
+    "name": "AON2",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "BackStabber",
+    "name": "BackStabber",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "BurnBothEnds",
+    "name": "Burn Both Ends",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "BushMosteller",
+    "name": "Bush Mosteller",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Calculator",
+    "name": "Calculator",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "CooperatorHunter",
+    "name": "Cooperator Hunter",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "CyclerCCCDCD",
+    "name": "Cycler CCCDCD",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "CyclerCCD",
+    "name": "Cycler CCD",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "CyclerDC",
+    "name": "Cycler DC",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Doubler",
+    "name": "Doubler",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "DoubleResurrection",
+    "name": "DoubleResurrection",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "EvolvedANNNoise05",
+    "name": "Evolved ANN 5 Noise 05",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "EvolvedLookerUp1_1_1",
+    "name": "EvolvedLookerUp1_1_1",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "FirstByDavis",
+    "name": "First by Davis",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "FirstByShubik",
+    "name": "First by Shubik",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "FirstBySteinAndRapoport",
+    "name": "First by Stein and Rapoport",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "FoolMeOnce",
+    "name": "Fool Me Once",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "ForgetfulGrudger",
+    "name": "Forgetful Grudger",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "Forgiver",
+    "name": "Forgiver",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "ForgivingTitForTat",
+    "name": "Forgiving Tit For Tat",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "Fortress4",
+    "name": "Fortress4",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "FrequencyAnalyzer",
+    "name": "FrequencyAnalyzer",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "GeneralSoftGrudger",
+    "name": "General Soft Grudger",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "Grumpy",
+    "name": "Grumpy",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "GTFT",
+    "name": "GTFT",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "HardProber",
+    "name": "Hard Prober",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Hopeless",
+    "name": "Hopeless",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Inverse",
+    "name": "Inverse",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "LimitedRetaliate",
+    "name": "Limited Retaliate",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "MEM2",
+    "name": "MEM2",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "MetaHunter",
+    "name": "Meta Hunter",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "MetaHunterAggressive",
+    "name": "Meta Hunter Aggressive",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "MetaMixer",
+    "name": "Meta Mixer",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "MetaWinnerDeterministic",
+    "name": "Meta Winner Deterministic",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "MetaWinnerFiniteMemory",
+    "name": "Meta Winner Finite Memory",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "MetaWinnerLongMemory",
+    "name": "Meta Winner Long Memory",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "MetaWinnerMemoryOne",
+    "name": "Meta Winner Memory One",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "Momentum",
+    "name": "Momentum",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "NTitsForMTats",
+    "name": "N Tit(s) For M Tat(s)",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "NiceAverageCopier",
+    "name": "Nice Average Copier",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "NMWEDeterministic",
+    "name": "NMWE Deterministic",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "NMWELongMemory",
+    "name": "NMWE Long Memory",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "NMWEMemoryOne",
+    "name": "NMWE Memory One",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "NMWEStochastic",
+    "name": "NMWE Stochastic",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "OppositeGrudger",
+    "name": "Opposite Grudger",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Predator",
+    "name": "Predator",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Prober2",
+    "name": "Prober 2",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Prober4",
+    "name": "Prober 4",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "PSOGambler1_1_1",
+    "name": "PSO Gambler 1_1_1",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "Pun1",
+    "name": "Pun1",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Raider",
+    "name": "Raider",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "RandomTitForTat",
+    "name": "Random Tit for Tat",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "RemorsefulProber",
+    "name": "Remorseful Prober",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Resurrection",
+    "name": "Resurrection",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "Retaliate2",
+    "name": "Retaliate 2",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "SecondByBlack",
+    "name": "Second by Black",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "SecondByCave",
+    "name": "Second by Cave",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "SecondByColbert",
+    "name": "Second by Colbert",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "SecondByGetzler",
+    "name": "Second by Getzler",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "SecondByKluepfel",
+    "name": "Second by Kluepfel",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "SecondByLeyvraz",
+    "name": "Second by Leyvraz",
+    "family": "Family_7"
+  },
+  {
+    "qualname": "SecondByRowsam",
+    "name": "Second by Rowsam",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "SecondByTidemanAndChieruzzi",
+    "name": "Second by Tideman and Chieruzzi",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "SecondByWhite",
+    "name": "Second by White",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "SecondByYamachi",
+    "name": "Second by Yamachi",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "ShortMem",
+    "name": "ShortMem",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "SlowTitForTwoTats2",
+    "name": "Slow Tit For Two Tats 2",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "SneakyTitForTat",
+    "name": "Sneaky Tit For Tat",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "SolutionB5",
+    "name": "SolutionB5",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Stalker",
+    "name": "Stalker",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "TF1",
+    "name": "TF1",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "TF2",
+    "name": "TF2",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "ThueMorse",
+    "name": "ThueMorse",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Thumper",
+    "name": "Thumper",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "VeryBad",
+    "name": "VeryBad",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "WinShiftLoseStay",
+    "name": "Win-Shift Lose-Stay",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "Winner21",
+    "name": "Winner21",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "WorseAndWorse",
+    "name": "Worse and Worse",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "WorseAndWorse3",
+    "name": "Worse and Worse 3",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "ZDSet2",
+    "name": "ZD-SET-2",
+    "family": "Family_1"
+  }
+]

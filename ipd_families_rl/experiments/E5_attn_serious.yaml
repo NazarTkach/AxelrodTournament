@@ -1,0 +1,44 @@
+run_name: "E5_attn_serious_seed0"
+device: "cuda"
+
+env:
+  max_rounds: 200
+  p_end: 0.02
+  tremble_eps: 0.00
+
+obs:
+  mode: "tokens_aux"
+  max_len: 200
+  aux_windows: [5, 10, 20, 50]
+
+model:
+  type: "attn_multiscale"
+  embed_dim: 64
+  n_heads: 4
+  n_layers: 2
+  ff_dim: 256
+  dropout: 0.1
+  aux_dim: 20
+
+train:
+  steps: 300000
+  start_learning: 10000
+  batch_size: 256
+  buffer_size: 300000
+  gamma: 0.96
+  lr: 0.0003
+  target_update: 5000
+  eps_start: 1.0
+  eps_end: 0.02
+  eps_decay_steps: 150000
+  grad_clip: 10.0
+  log_every: 5000
+  eval_every: 20000
+  eval_seeds_train: 10
+  eval_seeds_test: 20
+
+opponents:
+  train_list: "experiments/sets/train_60.json"
+  test_list: "experiments/sets/test_20.json"
+  sampling: "uniform_then_balanced"
+  curriculum_switch_step: 50000

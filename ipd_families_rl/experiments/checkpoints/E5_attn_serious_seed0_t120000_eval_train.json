@@ -1,0 +1,850 @@
+{
+  "summary": {
+    "mean": 2.5717930793762207,
+    "p10": 1.1399167776107788,
+    "median": 2.328874111175537,
+    "n": 84
+  },
+  "per_opponent": [
+    {
+      "name": "$\\phi$",
+      "qualname": "Golden",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 5.0,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 426
+    },
+    {
+      "name": "Adaptive",
+      "qualname": "Adaptive",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.3844797178130512,
+      "coop_rate": 0.003527336860670194,
+      "exploit_rate": 1.0,
+      "steps": 567
+    },
+    {
+      "name": "Alexei",
+      "qualname": "Alexei",
+      "family": "Family_2",
+      "type": "NA",
+      "reward_per_step": 2.5337620578778135,
+      "coop_rate": 0.6237942122186495,
+      "exploit_rate": 0.3888888888888889,
+      "steps": 311
+    },
+    {
+      "name": "AntiCycler",
+      "qualname": "AntiCycler",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 4.1957494407158835,
+      "coop_rate": 0.14988814317673377,
+      "exploit_rate": 0.8743523316062176,
+      "steps": 894
+    },
+    {
+      "name": "AON2",
+      "qualname": "AON2",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.8516129032258064,
+      "coop_rate": 0.24516129032258063,
+      "exploit_rate": 0.9534883720930233,
+      "steps": 310
+    },
+    {
+      "name": "BackStabber",
+      "qualname": "BackStabber",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.1977077363896849,
+      "coop_rate": 0.025787965616045846,
+      "exploit_rate": 1.0,
+      "steps": 698
+    },
+    {
+      "name": "Burn Both Ends",
+      "qualname": "BurnBothEnds",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.380191693290735,
+      "coop_rate": 0.6964856230031949,
+      "exploit_rate": 0.21782178217821782,
+      "steps": 313
+    },
+    {
+      "name": "Bush Mosteller",
+      "qualname": "BushMosteller",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.7292682926829268,
+      "coop_rate": 0.44878048780487806,
+      "exploit_rate": 0.425531914893617,
+      "steps": 410
+    },
+    {
+      "name": "Calculator",
+      "qualname": "Calculator",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.6345733041575494,
+      "coop_rate": 0.7724288840262582,
+      "exploit_rate": 0.18840579710144928,
+      "steps": 457
+    },
+    {
+      "name": "Cooperator Hunter",
+      "qualname": "CooperatorHunter",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 5.0,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 434
+    },
+    {
+      "name": "Cycler CCCDCD",
+      "qualname": "CyclerCCCDCD",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 3.37888198757764,
+      "coop_rate": 0.18012422360248448,
+      "exploit_rate": 0.7798165137614679,
+      "steps": 322
+    },
+    {
+      "name": "Cycler CCD",
+      "qualname": "CyclerCCD",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 3.6557377049180326,
+      "coop_rate": 0.01639344262295082,
+      "exploit_rate": 0.975609756097561,
+      "steps": 610
+    },
+    {
+      "name": "Cycler DC",
+      "qualname": "CyclerDC",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.4004683840749412,
+      "coop_rate": 0.44028103044496486,
+      "exploit_rate": 0.7075471698113207,
+      "steps": 427
+    },
+    {
+      "name": "Doubler",
+      "qualname": "Doubler",
+      "family": "Family_2",
+      "type": "NA",
+      "reward_per_step": 2.8452830188679243,
+      "coop_rate": 0.8018867924528302,
+      "exploit_rate": 0.14573991031390135,
+      "steps": 530
+    },
+    {
+      "name": "DoubleResurrection",
+      "qualname": "DoubleResurrection",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.4858934169278997,
+      "coop_rate": 0.7021943573667712,
+      "exploit_rate": 0.27699530516431925,
+      "steps": 319
+    },
+    {
+      "name": "Evolved ANN 5 Noise 05",
+      "qualname": "EvolvedANNNoise05",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.5182119205298013,
+      "coop_rate": 0.597682119205298,
+      "exploit_rate": 0.09174311926605505,
+      "steps": 604
+    },
+    {
+      "name": "EvolvedLookerUp1_1_1",
+      "qualname": "EvolvedLookerUp1_1_1",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.8333333333333333,
+      "coop_rate": 0.5844748858447488,
+      "exploit_rate": 0.5084745762711864,
+      "steps": 438
+    },
+    {
+      "name": "First by Davis",
+      "qualname": "FirstByDavis",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.8333333333333333,
+      "coop_rate": 0.043859649122807015,
+      "exploit_rate": 1.0,
+      "steps": 456
+    },
+    {
+      "name": "First by Shubik",
+      "qualname": "FirstByShubik",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 2.865079365079365,
+      "coop_rate": 0.8988095238095238,
+      "exploit_rate": 0.05482456140350877,
+      "steps": 504
+    },
+    {
+      "name": "First by Stein and Rapoport",
+      "qualname": "FirstBySteinAndRapoport",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.525065963060686,
+      "coop_rate": 0.17150395778364116,
+      "exploit_rate": 0.7714285714285715,
+      "steps": 379
+    },
+    {
+      "name": "Fool Me Once",
+      "qualname": "FoolMeOnce",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.1233140655105973,
+      "coop_rate": 0.023121387283236993,
+      "exploit_rate": 1.0,
+      "steps": 519
+    },
+    {
+      "name": "Forgetful Grudger",
+      "qualname": "ForgetfulGrudger",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.0426008968609866,
+      "coop_rate": 0.04708520179372197,
+      "exploit_rate": 1.0,
+      "steps": 446
+    },
+    {
+      "name": "Forgiver",
+      "qualname": "Forgiver",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.0277777777777777,
+      "coop_rate": 0.03758169934640523,
+      "exploit_rate": 1.0,
+      "steps": 612
+    },
+    {
+      "name": "Forgiving Tit For Tat",
+      "qualname": "ForgivingTitForTat",
+      "family": "Family_2",
+      "type": "NA",
+      "reward_per_step": 2.574642126789366,
+      "coop_rate": 0.689161554192229,
+      "exploit_rate": 0.25588235294117645,
+      "steps": 489
+    },
+    {
+      "name": "Fortress4",
+      "qualname": "Fortress4",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.605421686746988,
+      "coop_rate": 0.1686746987951807,
+      "exploit_rate": 0.8939393939393939,
+      "steps": 332
+    },
+    {
+      "name": "FrequencyAnalyzer",
+      "qualname": "FrequencyAnalyzer",
+      "family": "Family_2",
+      "type": "NA",
+      "reward_per_step": 1.4877049180327868,
+      "coop_rate": 0.33879781420765026,
+      "exploit_rate": 0.3611111111111111,
+      "steps": 732
+    },
+    {
+      "name": "General Soft Grudger",
+      "qualname": "GeneralSoftGrudger",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 2.783362218370884,
+      "coop_rate": 0.8890814558058926,
+      "exploit_rate": 0.07171314741035857,
+      "steps": 577
+    },
+    {
+      "name": "Grumpy",
+      "qualname": "Grumpy",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.7345132743362832,
+      "coop_rate": 0.023008849557522124,
+      "exploit_rate": 1.0,
+      "steps": 565
+    },
+    {
+      "name": "GTFT",
+      "qualname": "GTFT",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 2.8470873786407767,
+      "coop_rate": 0.45145631067961167,
+      "exploit_rate": 0.4311594202898551,
+      "steps": 412
+    },
+    {
+      "name": "Hard Prober",
+      "qualname": "HardProber",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.8635235732009927,
+      "coop_rate": 0.8982630272952854,
+      "exploit_rate": 0.06611570247933884,
+      "steps": 403
+    },
+    {
+      "name": "Hopeless",
+      "qualname": "Hopeless",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 4.498806682577565,
+      "coop_rate": 0.12171837708830549,
+      "exploit_rate": 0.9300518134715026,
+      "steps": 419
+    },
+    {
+      "name": "Inverse",
+      "qualname": "Inverse",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.4585741811175337,
+      "coop_rate": 0.2947976878612717,
+      "exploit_rate": 0.3706896551724138,
+      "steps": 519
+    },
+    {
+      "name": "Limited Retaliate",
+      "qualname": "LimitedRetaliate",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.1692607003891051,
+      "coop_rate": 0.06420233463035019,
+      "exploit_rate": 1.0,
+      "steps": 514
+    },
+    {
+      "name": "MEM2",
+      "qualname": "MEM2",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.0357142857142858,
+      "coop_rate": 0.039473684210526314,
+      "exploit_rate": 1.0,
+      "steps": 532
+    },
+    {
+      "name": "Meta Hunter",
+      "qualname": "MetaHunter",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 4.188118811881188,
+      "coop_rate": 0.039603960396039604,
+      "exploit_rate": 1.0,
+      "steps": 404
+    },
+    {
+      "name": "Meta Hunter Aggressive",
+      "qualname": "MetaHunterAggressive",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 3.9630872483221475,
+      "coop_rate": 0.09395973154362416,
+      "exploit_rate": 0.9352051835853131,
+      "steps": 596
+    },
+    {
+      "name": "Meta Mixer",
+      "qualname": "MetaMixer",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 4.978056426332288,
+      "coop_rate": 0.007836990595611285,
+      "exploit_rate": 0.9921507064364207,
+      "steps": 638
+    },
+    {
+      "name": "Meta Winner Deterministic",
+      "qualname": "MetaWinnerDeterministic",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 5.0,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 610
+    },
+    {
+      "name": "Meta Winner Finite Memory",
+      "qualname": "MetaWinnerFiniteMemory",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 4.996845425867508,
+      "coop_rate": 0.0015772870662460567,
+      "exploit_rate": 0.998422712933754,
+      "steps": 634
+    },
+    {
+      "name": "Meta Winner Long Memory",
+      "qualname": "MetaWinnerLongMemory",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 5.0,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 632
+    },
+    {
+      "name": "Meta Winner Memory One",
+      "qualname": "MetaWinnerMemoryOne",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 5.0,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 322
+    },
+    {
+      "name": "Momentum",
+      "qualname": "Momentum",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.232394366197183,
+      "coop_rate": 0.028169014084507043,
+      "exploit_rate": 1.0,
+      "steps": 568
+    },
+    {
+      "name": "N Tit(s) For M Tat(s)",
+      "qualname": "NTitsForMTats",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.1273408239700375,
+      "coop_rate": 0.02247191011235955,
+      "exploit_rate": 1.0,
+      "steps": 534
+    },
+    {
+      "name": "Nice Average Copier",
+      "qualname": "NiceAverageCopier",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 2.328421052631579,
+      "coop_rate": 0.6842105263157895,
+      "exploit_rate": 0.25170068027210885,
+      "steps": 475
+    },
+    {
+      "name": "NMWE Deterministic",
+      "qualname": "NMWEDeterministic",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 4.996062992125984,
+      "coop_rate": 0.001968503937007874,
+      "exploit_rate": 0.9980314960629921,
+      "steps": 508
+    },
+    {
+      "name": "NMWE Long Memory",
+      "qualname": "NMWELongMemory",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 5.0,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 559
+    },
+    {
+      "name": "NMWE Memory One",
+      "qualname": "NMWEMemoryOne",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 5.0,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 633
+    },
+    {
+      "name": "NMWE Stochastic",
+      "qualname": "NMWEStochastic",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 4.997308209959623,
+      "coop_rate": 0.0013458950201884253,
+      "exploit_rate": 0.9986541049798116,
+      "steps": 743
+    },
+    {
+      "name": "Opposite Grudger",
+      "qualname": "OppositeGrudger",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 4.811125485122898,
+      "coop_rate": 0.04915912031047866,
+      "exploit_rate": 0.9628154050464808,
+      "steps": 773
+    },
+    {
+      "name": "Predator",
+      "qualname": "Predator",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.0200573065902578,
+      "coop_rate": 0.03724928366762178,
+      "exploit_rate": 1.0,
+      "steps": 698
+    },
+    {
+      "name": "Prober 2",
+      "qualname": "Prober2",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.918103448275862,
+      "coop_rate": 0.9482758620689655,
+      "exploit_rate": 0.022727272727272728,
+      "steps": 696
+    },
+    {
+      "name": "Prober 4",
+      "qualname": "Prober4",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.296028880866426,
+      "coop_rate": 0.2815884476534296,
+      "exploit_rate": 0.2,
+      "steps": 554
+    },
+    {
+      "name": "PSO Gambler 1_1_1",
+      "qualname": "PSOGambler1_1_1",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.9130434782608696,
+      "coop_rate": 0.30978260869565216,
+      "exploit_rate": 0.46153846153846156,
+      "steps": 552
+    },
+    {
+      "name": "Pun1",
+      "qualname": "Pun1",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 3.055666003976143,
+      "coop_rate": 0.852882703777336,
+      "exploit_rate": 0.09302325581395349,
+      "steps": 503
+    },
+    {
+      "name": "Raider",
+      "qualname": "Raider",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.8799313893653515,
+      "coop_rate": 0.9313893653516295,
+      "exploit_rate": 0.01841620626151013,
+      "steps": 583
+    },
+    {
+      "name": "Random Tit for Tat",
+      "qualname": "RandomTitForTat",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.2821052631578946,
+      "coop_rate": 0.6210526315789474,
+      "exploit_rate": 0.31135531135531136,
+      "steps": 475
+    },
+    {
+      "name": "Remorseful Prober",
+      "qualname": "RemorsefulProber",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.5089408528198076,
+      "coop_rate": 0.7854195323246217,
+      "exploit_rate": 0.183206106870229,
+      "steps": 727
+    },
+    {
+      "name": "Resurrection",
+      "qualname": "Resurrection",
+      "family": "Family_2",
+      "type": "NA",
+      "reward_per_step": 2.5425685425685427,
+      "coop_rate": 0.6753246753246753,
+      "exploit_rate": 0.2632696390658174,
+      "steps": 693
+    },
+    {
+      "name": "Retaliate 2",
+      "qualname": "Retaliate2",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.0293542074363993,
+      "coop_rate": 0.04892367906066536,
+      "exploit_rate": 1.0,
+      "steps": 511
+    },
+    {
+      "name": "Second by Black",
+      "qualname": "SecondByBlack",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 2.0547945205479454,
+      "coop_rate": 0.1898238747553816,
+      "exploit_rate": 0.6342857142857142,
+      "steps": 511
+    },
+    {
+      "name": "Second by Cave",
+      "qualname": "SecondByCave",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.7285067873303168,
+      "coop_rate": 0.14479638009049775,
+      "exploit_rate": 0.5962732919254659,
+      "steps": 663
+    },
+    {
+      "name": "Second by Colbert",
+      "qualname": "SecondByColbert",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 3.12396694214876,
+      "coop_rate": 0.02975206611570248,
+      "exploit_rate": 0.9725609756097561,
+      "steps": 605
+    },
+    {
+      "name": "Second by Getzler",
+      "qualname": "SecondByGetzler",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.923780487804878,
+      "coop_rate": 0.3902439024390244,
+      "exploit_rate": 0.1925925925925926,
+      "steps": 328
+    },
+    {
+      "name": "Second by Kluepfel",
+      "qualname": "SecondByKluepfel",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.910913140311804,
+      "coop_rate": 0.3585746102449889,
+      "exploit_rate": 0.41317365269461076,
+      "steps": 449
+    },
+    {
+      "name": "Second by Leyvraz",
+      "qualname": "SecondByLeyvraz",
+      "family": "Family_7",
+      "type": "NA",
+      "reward_per_step": 2.774597495527728,
+      "coop_rate": 0.6815742397137746,
+      "exploit_rate": 0.2458628841607565,
+      "steps": 559
+    },
+    {
+      "name": "Second by Rowsam",
+      "qualname": "SecondByRowsam",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 2.1578947368421053,
+      "coop_rate": 0.06766917293233082,
+      "exploit_rate": 0.8809523809523809,
+      "steps": 266
+    },
+    {
+      "name": "Second by Tideman and Chieruzzi",
+      "qualname": "SecondByTidemanAndChieruzzi",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.8919803600654665,
+      "coop_rate": 0.44189852700491,
+      "exploit_rate": 0.29959514170040485,
+      "steps": 611
+    },
+    {
+      "name": "Second by White",
+      "qualname": "SecondByWhite",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 2.846286701208981,
+      "coop_rate": 0.5561312607944733,
+      "exploit_rate": 0.28841607565011823,
+      "steps": 579
+    },
+    {
+      "name": "Second by Yamachi",
+      "qualname": "SecondByYamachi",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.6991869918699187,
+      "coop_rate": 0.0975609756097561,
+      "exploit_rate": 0.6981132075471698,
+      "steps": 246
+    },
+    {
+      "name": "ShortMem",
+      "qualname": "ShortMem",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.6132930513595165,
+      "coop_rate": 0.021148036253776436,
+      "exploit_rate": 1.0,
+      "steps": 662
+    },
+    {
+      "name": "Slow Tit For Two Tats 2",
+      "qualname": "SlowTitForTwoTats2",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.1266294227188083,
+      "coop_rate": 0.0223463687150838,
+      "exploit_rate": 1.0,
+      "steps": 537
+    },
+    {
+      "name": "Sneaky Tit For Tat",
+      "qualname": "SneakyTitForTat",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.7318435754189943,
+      "coop_rate": 0.5567970204841713,
+      "exploit_rate": 0.34877384196185285,
+      "steps": 537
+    },
+    {
+      "name": "SolutionB5",
+      "qualname": "SolutionB5",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.683698296836983,
+      "coop_rate": 0.8272506082725061,
+      "exploit_rate": 0.10843373493975904,
+      "steps": 411
+    },
+    {
+      "name": "Stalker",
+      "qualname": "Stalker",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 2.287598944591029,
+      "coop_rate": 0.36675461741424803,
+      "exploit_rate": 0.44505494505494503,
+      "steps": 379
+    },
+    {
+      "name": "TF1",
+      "qualname": "TF1",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.3694915254237288,
+      "coop_rate": 0.10508474576271186,
+      "exploit_rate": 1.0,
+      "steps": 295
+    },
+    {
+      "name": "TF2",
+      "qualname": "TF2",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.05,
+      "coop_rate": 0.038,
+      "exploit_rate": 1.0,
+      "steps": 500
+    },
+    {
+      "name": "ThueMorse",
+      "qualname": "ThueMorse",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.7465346534653468,
+      "coop_rate": 0.18811881188118812,
+      "exploit_rate": 0.8313725490196079,
+      "steps": 505
+    },
+    {
+      "name": "Thumper",
+      "qualname": "Thumper",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 1.6430594900849858,
+      "coop_rate": 0.34277620396600567,
+      "exploit_rate": 0.44554455445544555,
+      "steps": 353
+    },
+    {
+      "name": "VeryBad",
+      "qualname": "VeryBad",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 1.1879699248120301,
+      "coop_rate": 0.03759398496240601,
+      "exploit_rate": 1.0,
+      "steps": 532
+    },
+    {
+      "name": "Win-Shift Lose-Stay",
+      "qualname": "WinShiftLoseStay",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.483402489626556,
+      "coop_rate": 0.5684647302904564,
+      "exploit_rate": 0.14906832298136646,
+      "steps": 482
+    },
+    {
+      "name": "Winner21",
+      "qualname": "Winner21",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 1.2577487765089723,
+      "coop_rate": 0.19738988580750408,
+      "exploit_rate": 0.20689655172413793,
+      "steps": 613
+    },
+    {
+      "name": "Worse and Worse",
+      "qualname": "WorseAndWorse",
+      "family": "Family_6",
+      "type": "NA",
+      "reward_per_step": 4.79,
+      "coop_rate": 0.0,
+      "exploit_rate": 1.0,
+      "steps": 400
+    },
+    {
+      "name": "Worse and Worse 3",
+      "qualname": "WorseAndWorse3",
+      "family": "Family_3",
+      "type": "NA",
+      "reward_per_step": 2.329326923076923,
+      "coop_rate": 0.7199519230769231,
+      "exploit_rate": 0.21092278719397364,
+      "steps": 832
+    },
+    {
+      "name": "ZD-SET-2",
+      "qualname": "ZDSet2",
+      "family": "Family_1",
+      "type": "NA",
+      "reward_per_step": 2.0526315789473686,
+      "coop_rate": 0.506578947368421,
+      "exploit_rate": 0.45985401459854014,
+      "steps": 304
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "steps": 2000,
+  "start_learning": 200,
+  "batch_size": 64,
+  "buffer_size": 5000,
+  "gamma": 0.96,
+  "lr": 0.0003,
+  "target_update": 500,
+  "eps_start": 1.0,
+  "eps_end": 0.05,
+  "eps_decay_steps": 1500,
+  "grad_clip": 10.0,
+  "seed": 0,
+  "device": "cuda",
+  "run_name": "attn_smoketest"
+}

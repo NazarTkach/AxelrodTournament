@@ -1,0 +1,22 @@
+{
+  "TFT": {
+    "reward_per_step": 1.6349206349206349,
+    "steps": 126
+  },
+  "Defector": {
+    "reward_per_step": 1.0,
+    "steps": 126
+  },
+  "WSLS": {
+    "reward_per_step": 3.126984126984127,
+    "steps": 126
+  },
+  "Grudger": {
+    "reward_per_step": 1.6349206349206349,
+    "steps": 126
+  },
+  "Random": {
+    "reward_per_step": 3.0317460317460316,
+    "steps": 126
+  }
+}

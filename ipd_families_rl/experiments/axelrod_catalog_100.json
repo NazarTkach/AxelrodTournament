@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "$\\phi$",
+    "qualname": "Golden",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "stochastic": false,
+      "memory_depth": Infinity,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Adaptive",
+    "qualname": "Adaptive",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Alexei",
+    "qualname": "Alexei",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "AntiCycler",
+    "qualname": "AntiCycler",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "AON2",
+    "qualname": "AON2",
+    "is_stochastic": false,
+    "memory_depth": 2,
+    "classifier": {
+      "memory_depth": 2,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Arrogant QLearner",
+    "qualname": "ArrogantQLearner",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "BackStabber",
+    "qualname": "BackStabber",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Burn Both Ends",
+    "qualname": "BurnBothEnds",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Bush Mosteller",
+    "qualname": "BushMosteller",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Calculator",
+    "qualname": "Calculator",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Cautious QLearner",
+    "qualname": "CautiousQLearner",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Cooperator Hunter",
+    "qualname": "CooperatorHunter",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Cycler CCCDCD",
+    "qualname": "CyclerCCCDCD",
+    "is_stochastic": false,
+    "memory_depth": 5,
+    "classifier": {
+      "memory_depth": 5,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Cycler CCD",
+    "qualname": "CyclerCCD",
+    "is_stochastic": false,
+    "memory_depth": 2,
+    "classifier": {
+      "memory_depth": 2,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Cycler DC",
+    "qualname": "CyclerDC",
+    "is_stochastic": false,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Doubler",
+    "qualname": "Doubler",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "stochastic": false,
+      "memory_depth": Infinity,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "DoubleResurrection",
+    "qualname": "DoubleResurrection",
+    "is_stochastic": false,
+    "memory_depth": 5,
+    "classifier": {
+      "memory_depth": 5,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Eventual Cycle Hunter",
+    "qualname": "EventualCycleHunter",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Evolved ANN 5 Noise 05",
+    "qualname": "EvolvedANNNoise05",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false,
+      "long_run_time": false
+    }
+  },
+  {
+    "name": "Evolved FSM 16",
+    "qualname": "EvolvedFSM16",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "EvolvedAttention",
+    "qualname": "EvolvedAttention",
+    "is_stochastic": false,
+    "memory_depth": 200,
+    "classifier": {
+      "memory_depth": 200,
+      "stochastic": false,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "EvolvedLookerUp1_1_1",
+    "qualname": "EvolvedLookerUp1_1_1",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Firm But Fair",
+    "qualname": "FirmButFair",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "First by Davis",
+    "qualname": "FirstByDavis",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "First by Nydegger",
+    "qualname": "FirstByNydegger",
+    "is_stochastic": false,
+    "memory_depth": 3,
+    "classifier": {
+      "memory_depth": 3,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "First by Shubik",
+    "qualname": "FirstByShubik",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "First by Stein and Rapoport",
+    "qualname": "FirstBySteinAndRapoport",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Fool Me Once",
+    "qualname": "FoolMeOnce",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Forgetful Grudger",
+    "qualname": "ForgetfulGrudger",
+    "is_stochastic": false,
+    "memory_depth": 10,
+    "classifier": {
+      "memory_depth": 10,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Forgiver",
+    "qualname": "Forgiver",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Forgiving Tit For Tat",
+    "qualname": "ForgivingTitForTat",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Fortress4",
+    "qualname": "Fortress4",
+    "is_stochastic": false,
+    "memory_depth": 3,
+    "classifier": {
+      "memory_depth": 3,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "FrequencyAnalyzer",
+    "qualname": "FrequencyAnalyzer",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "General Soft Grudger",
+    "qualname": "GeneralSoftGrudger",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Grumpy",
+    "qualname": "Grumpy",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "GTFT",
+    "qualname": "GTFT",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Hard Prober",
+    "qualname": "HardProber",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "stochastic": false,
+      "memory_depth": Infinity,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Hopeless",
+    "qualname": "Hopeless",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "long_run_time": false,
+      "stochastic": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Inverse",
+    "qualname": "Inverse",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Limited Retaliate",
+    "qualname": "LimitedRetaliate",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "MEM2",
+    "qualname": "MEM2",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "long_run_time": false,
+      "stochastic": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Meta Hunter",
+    "qualname": "MetaHunter",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Meta Hunter Aggressive",
+    "qualname": "MetaHunterAggressive",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Meta Mixer",
+    "qualname": "MetaMixer",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Meta Winner Deterministic",
+    "qualname": "MetaWinnerDeterministic",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Meta Winner Finite Memory",
+    "qualname": "MetaWinnerFiniteMemory",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Meta Winner Long Memory",
+    "qualname": "MetaWinnerLongMemory",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Meta Winner Memory One",
+    "qualname": "MetaWinnerMemoryOne",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Momentum",
+    "qualname": "Momentum",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "N Tit(s) For M Tat(s)",
+    "qualname": "NTitsForMTats",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Nice Average Copier",
+    "qualname": "NiceAverageCopier",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "NMWE Deterministic",
+    "qualname": "NMWEDeterministic",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "NMWE Long Memory",
+    "qualname": "NMWELongMemory",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "NMWE Memory One",
+    "qualname": "NMWEMemoryOne",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "NMWE Stochastic",
+    "qualname": "NMWEStochastic",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": true,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Omega TFT",
+    "qualname": "OmegaTFT",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Opposite Grudger",
+    "qualname": "OppositeGrudger",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Predator",
+    "qualname": "Predator",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Prober 2",
+    "qualname": "Prober2",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "stochastic": false,
+      "memory_depth": Infinity,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Prober 4",
+    "qualname": "Prober4",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "stochastic": false,
+      "memory_depth": Infinity,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "PSO Gambler 1_1_1",
+    "qualname": "PSOGambler1_1_1",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Pun1",
+    "qualname": "Pun1",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Raider",
+    "qualname": "Raider",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Random Hunter",
+    "qualname": "RandomHunter",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Random Tit for Tat",
+    "qualname": "RandomTitForTat",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Remorseful Prober",
+    "qualname": "RemorsefulProber",
+    "is_stochastic": true,
+    "memory_depth": 2,
+    "classifier": {
+      "memory_depth": 2,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Resurrection",
+    "qualname": "Resurrection",
+    "is_stochastic": false,
+    "memory_depth": 5,
+    "classifier": {
+      "memory_depth": 5,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Retaliate 2",
+    "qualname": "Retaliate2",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "inspects_source": false,
+      "long_run_time": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Risky QLearner",
+    "qualname": "RiskyQLearner",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Black",
+    "qualname": "SecondByBlack",
+    "is_stochastic": true,
+    "memory_depth": 5,
+    "classifier": {
+      "memory_depth": 5,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Cave",
+    "qualname": "SecondByCave",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Colbert",
+    "qualname": "SecondByColbert",
+    "is_stochastic": false,
+    "memory_depth": 4,
+    "classifier": {
+      "memory_depth": 4,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Getzler",
+    "qualname": "SecondByGetzler",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Kluepfel",
+    "qualname": "SecondByKluepfel",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Leyvraz",
+    "qualname": "SecondByLeyvraz",
+    "is_stochastic": true,
+    "memory_depth": 3,
+    "classifier": {
+      "memory_depth": 3,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Rowsam",
+    "qualname": "SecondByRowsam",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Tideman and Chieruzzi",
+    "qualname": "SecondByTidemanAndChieruzzi",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by White",
+    "qualname": "SecondByWhite",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Second by Yamachi",
+    "qualname": "SecondByYamachi",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "ShortMem",
+    "qualname": "ShortMem",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Slow Tit For Two Tats 2",
+    "qualname": "SlowTitForTwoTats2",
+    "is_stochastic": false,
+    "memory_depth": 2,
+    "classifier": {
+      "memory_depth": 2,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Sneaky Tit For Tat",
+    "qualname": "SneakyTitForTat",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Soft Go By Majority: 10",
+    "qualname": "GoByMajority10",
+    "is_stochastic": false,
+    "memory_depth": 10,
+    "classifier": {
+      "stochastic": false,
+      "inspects_source": false,
+      "long_run_time": false,
+      "manipulates_source": false,
+      "manipulates_state": false,
+      "memory_depth": 10
+    }
+  },
+  {
+    "name": "Soft Go By Majority: 20",
+    "qualname": "GoByMajority20",
+    "is_stochastic": false,
+    "memory_depth": 20,
+    "classifier": {
+      "stochastic": false,
+      "inspects_source": false,
+      "long_run_time": false,
+      "manipulates_source": false,
+      "manipulates_state": false,
+      "memory_depth": 20
+    }
+  },
+  {
+    "name": "Soft Go By Majority: 5",
+    "qualname": "GoByMajority5",
+    "is_stochastic": false,
+    "memory_depth": 5,
+    "classifier": {
+      "stochastic": false,
+      "inspects_source": false,
+      "long_run_time": false,
+      "manipulates_source": false,
+      "manipulates_state": false,
+      "memory_depth": 5
+    }
+  },
+  {
+    "name": "SolutionB5",
+    "qualname": "SolutionB5",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Stalker",
+    "qualname": "Stalker",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "TF1",
+    "qualname": "TF1",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "TF2",
+    "qualname": "TF2",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "ThueMorse",
+    "qualname": "ThueMorse",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Thumper",
+    "qualname": "Thumper",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "VeryBad",
+    "qualname": "VeryBad",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Win-Shift Lose-Stay",
+    "qualname": "WinShiftLoseStay",
+    "is_stochastic": false,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Winner21",
+    "qualname": "Winner21",
+    "is_stochastic": false,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": false,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Worse and Worse",
+    "qualname": "WorseAndWorse",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "Worse and Worse 3",
+    "qualname": "WorseAndWorse3",
+    "is_stochastic": true,
+    "memory_depth": Infinity,
+    "classifier": {
+      "memory_depth": Infinity,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "ZD-Extort-4",
+    "qualname": "ZDExtort4",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "ZD-Extort3",
+    "qualname": "ZDExtort3",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "ZD-Mischief",
+    "qualname": "ZDMischief",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  },
+  {
+    "name": "ZD-SET-2",
+    "qualname": "ZDSet2",
+    "is_stochastic": true,
+    "memory_depth": 1,
+    "classifier": {
+      "memory_depth": 1,
+      "stochastic": true,
+      "long_run_time": false,
+      "inspects_source": false,
+      "manipulates_source": false,
+      "manipulates_state": false
+    }
+  }
+]

@@ -1,0 +1,556 @@
+{
+  "families": {
+    "1": {
+      "size": 34,
+      "members": [
+        "$\\phi$",
+        "Adaptive",
+        "AntiCycler",
+        "Burn Both Ends",
+        "Bush Mosteller",
+        "Calculator",
+        "Cooperator Hunter",
+        "Cycler CCCDCD",
+        "Cycler CCD",
+        "Cycler DC",
+        "DoubleResurrection",
+        "Fortress4",
+        "Hard Prober",
+        "Hopeless",
+        "Opposite Grudger",
+        "Predator",
+        "Prober 2",
+        "Prober 4",
+        "Pun1",
+        "Raider",
+        "Random Tit for Tat",
+        "Remorseful Prober",
+        "Second by Colbert",
+        "Sneaky Tit For Tat",
+        "SolutionB5",
+        "TF1",
+        "TF2",
+        "ThueMorse",
+        "Win-Shift Lose-Stay",
+        "Winner21",
+        "ZD-Extort-4",
+        "ZD-Extort3",
+        "ZD-Mischief",
+        "ZD-SET-2"
+      ],
+      "top_features": [
+        [
+          "Forgiver__mutual_C_rate",
+          0.21896923907177546,
+          -1.3235728568194123
+        ],
+        [
+          "Forgiver__opp_coop_rate",
+          0.30288720992984364,
+          -1.3196524673784742
+        ],
+        [
+          "Grudger__mutual_C_rate",
+          0.19657312466270913,
+          -1.3147963003283323
+        ],
+        [
+          "Grudger__opp_coop_rate",
+          0.27657852131678357,
+          -1.3123840463425196
+        ],
+        [
+          "Win-Stay Lose-Shift__mutual_C_rate",
+          0.3407987048030221,
+          -1.2281344340336946
+        ],
+        [
+          "GTFT__mutual_C_rate",
+          0.5291419320021585,
+          -1.2186622935937352
+        ],
+        [
+          "Tit For Tat__mutual_C_rate",
+          0.4106853750674582,
+          -1.2104121980958582
+        ],
+        [
+          "Forgiver__score_per_move",
+          1.8373223398093634,
+          -1.209727127303245
+        ],
+        [
+          "Grudger__score_per_move",
+          1.7966095104114135,
+          -1.1937809157064838
+        ],
+        [
+          "Forgiver__self_coop_rate",
+          0.5000000000000001,
+          -1.1925782727830745
+        ]
+      ]
+    },
+    "2": {
+      "size": 5,
+      "members": [
+        "Alexei",
+        "Doubler",
+        "Forgiving Tit For Tat",
+        "FrequencyAnalyzer",
+        "Resurrection"
+      ],
+      "top_features": [
+        [
+          "Suspicious Tit For Tat__mutual_C_rate",
+          0.0,
+          -1.1454586370697333
+        ],
+        [
+          "Alternator__mutual_C_rate",
+          0.09174311926605505,
+          -1.0325659970981511
+        ],
+        [
+          "Defector__score_per_move",
+          0.8444842684548568,
+          1.0257475424916465
+        ],
+        [
+          "Defector__self_coop_rate",
+          0.09174311926605505,
+          -0.9882314723477573
+        ],
+        [
+          "Defector__mutual_D_rate",
+          0.9082568807339448,
+          0.988231472347757
+        ],
+        [
+          "Alternator__mutual_D_rate",
+          0.0,
+          -0.977624428318421
+        ],
+        [
+          "Grudger__mutual_C_rate",
+          1.0,
+          0.7253233427125654
+        ],
+        [
+          "Grudger__opp_coop_rate",
+          1.0,
+          0.723208654942588
+        ],
+        [
+          "Suspicious Tit For Tat__mutual_D_rate",
+          0.0,
+          -0.7152184320251405
+        ],
+        [
+          "Forgiver__mutual_C_rate",
+          1.0,
+          0.7065910122607477
+        ]
+      ]
+    },
+    "3": {
+      "size": 21,
+      "members": [
+        "AON2",
+        "Evolved FSM 16",
+        "EvolvedAttention",
+        "EvolvedLookerUp1_1_1",
+        "First by Shubik",
+        "Fool Me Once",
+        "Forgetful Grudger",
+        "Forgiver",
+        "General Soft Grudger",
+        "Inverse",
+        "Limited Retaliate",
+        "MEM2",
+        "Nice Average Copier",
+        "Omega TFT",
+        "PSO Gambler 1_1_1",
+        "Retaliate 2",
+        "Second by Getzler",
+        "Second by Kluepfel",
+        "Second by Tideman and Chieruzzi",
+        "Thumper",
+        "Worse and Worse 3"
+      ],
+      "top_features": [
+        [
+          "Random__mutual_D_rate",
+          0.3215377894276976,
+          0.9720272594309363
+        ],
+        [
+          "Random__self_coop_rate",
+          0.35954565312363473,
+          -0.9648252856305489
+        ],
+        [
+          "Alternator__mutual_D_rate",
+          0.2909567496723461,
+          0.9638070332317132
+        ],
+        [
+          "Alternator__self_coop_rate",
+          0.3331148973350807,
+          -0.955382999007148
+        ],
+        [
+          "Random__mutual_C_rate",
+          0.1673219746614242,
+          -0.9465336233399182
+        ],
+        [
+          "Random__score_per_move",
+          2.341905785883377,
+          0.8444692249096508
+        ],
+        [
+          "Alternator__score_per_move",
+          2.5269367477630786,
+          0.753663384870398
+        ],
+        [
+          "Defector__score_per_move",
+          0.7568915411282356,
+          0.7515486048193485
+        ],
+        [
+          "Grudger__mutual_C_rate",
+          1.0,
+          0.7253233427125654
+        ],
+        [
+          "Grudger__opp_coop_rate",
+          1.0,
+          0.723208654942588
+        ]
+      ]
+    },
+    "4": {
+      "size": 3,
+      "members": [
+        "Go By Majority 10",
+        "Go By Majority 20",
+        "Go By Majority 5"
+      ],
+      "top_features": [
+        [
+          "Alternator__self_coop_rate",
+          0.908256880733945,
+          1.1435276605609914
+        ],
+        [
+          "Alternator__score_per_move",
+          1.7614682775467092,
+          -1.1416305145312613
+        ],
+        [
+          "Defector__score_per_move",
+          0.8444842684548567,
+          1.025747542491646
+        ],
+        [
+          "Defector__mutual_D_rate",
+          0.908256880733945,
+          0.9882314723477573
+        ],
+        [
+          "Defector__self_coop_rate",
+          0.09174311926605505,
+          -0.9882314723477573
+        ],
+        [
+          "Alternator__mutual_D_rate",
+          0.0,
+          -0.977624428318421
+        ],
+        [
+          "Alternator__mutual_C_rate",
+          0.44036697247706424,
+          0.9476261749800585
+        ],
+        [
+          "Suspicious Tit For Tat__mutual_C_rate",
+          0.13455657492354742,
+          -0.7847488139810354
+        ],
+        [
+          "Grudger__mutual_C_rate",
+          1.0,
+          0.7253233427125654
+        ],
+        [
+          "Grudger__opp_coop_rate",
+          1.0,
+          0.723208654942588
+        ]
+      ]
+    },
+    "5": {
+      "size": 2,
+      "members": [
+        "Firm But Fair",
+        "First by Nydegger"
+      ],
+      "top_features": [
+        [
+          "Alternator__mutual_C_rate",
+          0.09174311926605505,
+          -1.0325659970981511
+        ],
+        [
+          "Alternator__mutual_D_rate",
+          0.0,
+          -0.977624428318421
+        ],
+        [
+          "Grudger__mutual_C_rate",
+          1.0,
+          0.7253233427125654
+        ],
+        [
+          "Grudger__opp_coop_rate",
+          1.0,
+          0.723208654942588
+        ],
+        [
+          "Forgiver__mutual_C_rate",
+          1.0,
+          0.7065910122607477
+        ],
+        [
+          "Forgiver__opp_coop_rate",
+          1.0,
+          0.700566867459336
+        ],
+        [
+          "Win-Stay Lose-Shift__mutual_C_rate",
+          1.0,
+          0.6894887579082699
+        ],
+        [
+          "Grudger__score_per_move",
+          3.0,
+          0.6652313864055139
+        ],
+        [
+          "Win-Stay Lose-Shift__opp_coop_rate",
+          1.0,
+          0.6650322830266634
+        ],
+        [
+          "Forgiver__score_per_move",
+          3.0,
+          0.6532351984562965
+        ]
+      ]
+    },
+    "6": {
+      "size": 34,
+      "members": [
+        "Arrogant QLearner",
+        "BackStabber",
+        "Cautious QLearner",
+        "Eventual Cycle Hunter",
+        "Evolved ANN 5 Noise 05",
+        "First by Davis",
+        "First by Stein and Rapoport",
+        "Grumpy",
+        "GTFT",
+        "Meta Hunter",
+        "Meta Hunter Aggressive",
+        "Meta Mixer",
+        "Meta Winner Deterministic",
+        "Meta Winner Finite Memory",
+        "Meta Winner Long Memory",
+        "Meta Winner Memory One",
+        "Momentum",
+        "N Tit(s) For M Tat(s)",
+        "NMWE Deterministic",
+        "NMWE Long Memory",
+        "NMWE Memory One",
+        "NMWE Stochastic",
+        "Random Hunter",
+        "Risky QLearner",
+        "Second by Black",
+        "Second by Cave",
+        "Second by Rowsam",
+        "Second by White",
+        "Second by Yamachi",
+        "ShortMem",
+        "Slow Tit For Two Tats 2",
+        "Stalker",
+        "VeryBad",
+        "Worse and Worse"
+      ],
+      "top_features": [
+        [
+          "Suspicious Tit For Tat__mutual_C_rate",
+          0.8277118186724226,
+          1.0734131189287555
+        ],
+        [
+          "Random__score_per_move",
+          1.6990631059316184,
+          -1.0503662014256592
+        ],
+        [
+          "Suspicious Tit For Tat__opp_coop_rate",
+          0.860631408526713,
+          0.9951513518428409
+        ],
+        [
+          "Suspicious Tit For Tat__self_coop_rate",
+          0.9485968699406369,
+          0.9912319096028499
+        ],
+        [
+          "Alternator__score_per_move",
+          1.8308989133383606,
+          -0.9697208075118467
+        ],
+        [
+          "Random__mutual_C_rate",
+          0.3957096600107933,
+          0.9657723390389573
+        ],
+        [
+          "Random__self_coop_rate",
+          0.8223151645979491,
+          0.9626406939606572
+        ],
+        [
+          "Defector__score_per_move",
+          0.21107005339271775,
+          -0.9570826556015885
+        ],
+        [
+          "Random__mutual_D_rate",
+          0.08715596330275227,
+          -0.9488973931574591
+        ],
+        [
+          "Alternator__self_coop_rate",
+          0.8381003777657853,
+          0.8875000427409688
+        ]
+      ]
+    },
+    "7": {
+      "size": 1,
+      "members": [
+        "Second by Leyvraz"
+      ],
+      "top_features": [
+        [
+          "Alternator__mutual_D_rate",
+          0.3761467889908257,
+          1.53224417287477
+        ],
+        [
+          "Alternator__mutual_C_rate",
+          0.4908256880733945,
+          1.2342329367282203
+        ],
+        [
+          "Grudger__mutual_C_rate",
+          1.0,
+          0.7253233427125654
+        ],
+        [
+          "Grudger__opp_coop_rate",
+          1.0,
+          0.723208654942588
+        ],
+        [
+          "Forgiver__mutual_C_rate",
+          1.0,
+          0.7065910122607477
+        ],
+        [
+          "Forgiver__opp_coop_rate",
+          1.0,
+          0.700566867459336
+        ],
+        [
+          "Win-Stay Lose-Shift__mutual_C_rate",
+          1.0,
+          0.6894887579082699
+        ],
+        [
+          "Grudger__score_per_move",
+          3.0,
+          0.6652313864055139
+        ],
+        [
+          "Win-Stay Lose-Shift__opp_coop_rate",
+          1.0,
+          0.6650322830266634
+        ],
+        [
+          "Forgiver__score_per_move",
+          3.0,
+          0.6532351984562965
+        ]
+      ]
+    }
+  },
+  "chosen_K": 7,
+  "stability_curve": {
+    "3": {
+      "mean_ari": 0.6030478828241039,
+      "std_ari": 0.2227783518484983,
+      "pairs": 50.0
+    },
+    "4": {
+      "mean_ari": 0.7193449483324421,
+      "std_ari": 0.1565912108377486,
+      "pairs": 50.0
+    },
+    "5": {
+      "mean_ari": 0.7210862530140085,
+      "std_ari": 0.131340225207657,
+      "pairs": 50.0
+    },
+    "6": {
+      "mean_ari": 0.6574072217627942,
+      "std_ari": 0.13435573668376577,
+      "pairs": 50.0
+    },
+    "7": {
+      "mean_ari": 0.7321823513816197,
+      "std_ari": 0.11822822782902656,
+      "pairs": 50.0
+    },
+    "8": {
+      "mean_ari": 0.6969575267860144,
+      "std_ari": 0.11367210924391959,
+      "pairs": 50.0
+    },
+    "9": {
+      "mean_ari": 0.6689270865969845,
+      "std_ari": 0.1250201822026833,
+      "pairs": 50.0
+    },
+    "10": {
+      "mean_ari": 0.6862249022087029,
+      "std_ari": 0.12005947872767882,
+      "pairs": 50.0
+    },
+    "11": {
+      "mean_ari": 0.6689765401768532,
+      "std_ari": 0.11983512238372471,
+      "pairs": 50.0
+    },
+    "12": {
+      "mean_ari": 0.6727897997160014,
+      "std_ari": 0.12202548542866565,
+      "pairs": 50.0
+    }
+  }
+}

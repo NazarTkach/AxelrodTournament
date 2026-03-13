@@ -1,0 +1,27 @@
+[
+  {"qualname":"Arrogant QLearner","name":"Arrogant QLearner","family":"Family_6"},
+  {"qualname":"Cautious QLearner","name":"Cautious QLearner","family":"Family_6"},
+  {"qualname":"Risky QLearner","name":"Risky QLearner","family":"Family_6"},
+  {"qualname":"Eventual Cycle Hunter","name":"Eventual Cycle Hunter","family":"Family_6"},
+  {"qualname":"Random Hunter","name":"Random Hunter","family":"Family_6"},
+
+  {"qualname":"Evolved FSM 16","name":"Evolved FSM 16","family":"Family_3"},
+  {"qualname":"EvolvedAttention","name":"EvolvedAttention","family":"Family_3"},
+  {"qualname":"Omega TFT","name":"Omega TFT","family":"Family_3"},
+  {"qualname":"Second by Leyvraz","name":"Second by Leyvraz","family":"Family_7"},
+  {"qualname":"Go By Majority 5","name":"Go By Majority 5","family":"Family_4"},
+
+  {"qualname":"Go By Majority 10","name":"Go By Majority 10","family":"Family_4"},
+  {"qualname":"Go By Majority 20","name":"Go By Majority 20","family":"Family_4"},
+
+  {"qualname":"Firm But Fair","name":"Firm But Fair","family":"Family_5"},
+  {"qualname":"First by Nydegger","name":"First by Nydegger","family":"Family_5"},
+
+  {"qualname":"Doubler","name":"Doubler","family":"Family_2"},
+  {"qualname":"Resurrection","name":"Resurrection","family":"Family_2"},
+  {"qualname":"FrequencyAnalyzer","name":"FrequencyAnalyzer","family":"Family_2"},
+
+  {"qualname":"Hopeless","name":"Hopeless","family":"Family_1"},
+  {"qualname":"ZD-Extort-4","name":"ZD-Extort-4","family":"Family_1"},
+  {"qualname":"ZD-Mischief","name":"ZD-Mischief","family":"Family_1"}
+]

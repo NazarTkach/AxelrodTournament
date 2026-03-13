@@ -1,0 +1,87 @@
+[
+  {
+    "qualname": "ArrogantQLearner",
+    "name": "Arrogant QLearner",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "CautiousQLearner",
+    "name": "Cautious QLearner",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "RiskyQLearner",
+    "name": "Risky QLearner",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "EventualCycleHunter",
+    "name": "Eventual Cycle Hunter",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "RandomHunter",
+    "name": "Random Hunter",
+    "family": "Family_6"
+  },
+  {
+    "qualname": "EvolvedFSM16",
+    "name": "Evolved FSM 16",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "EvolvedAttention",
+    "name": "EvolvedAttention",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "OmegaTFT",
+    "name": "Omega TFT",
+    "family": "Family_3"
+  },
+  {
+    "qualname": "SecondByLeyvraz",
+    "name": "Second by Leyvraz",
+    "family": "Family_7"
+  },
+  {
+    "qualname": "FirmButFair",
+    "name": "Firm But Fair",
+    "family": "Family_5"
+  },
+  {
+    "qualname": "FirstByNydegger",
+    "name": "First by Nydegger",
+    "family": "Family_5"
+  },
+  {
+    "qualname": "Doubler",
+    "name": "Doubler",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "Resurrection",
+    "name": "Resurrection",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "FrequencyAnalyzer",
+    "name": "FrequencyAnalyzer",
+    "family": "Family_2"
+  },
+  {
+    "qualname": "Hopeless",
+    "name": "Hopeless",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "ZDExtort4",
+    "name": "ZD-Extort-4",
+    "family": "Family_1"
+  },
+  {
+    "qualname": "ZDMischief",
+    "name": "ZD-Mischief",
+    "family": "Family_1"
+  }
+]

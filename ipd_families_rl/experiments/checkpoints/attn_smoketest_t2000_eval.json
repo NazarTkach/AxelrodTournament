@@ -1,0 +1,14 @@
+{
+  "TFT": {
+    "reward_per_step": 2.358490566037736,
+    "steps": 53
+  },
+  "Defector": {
+    "reward_per_step": 1.0,
+    "steps": 53
+  },
+  "WSLS": {
+    "reward_per_step": 1.849056603773585,
+    "steps": 53
+  }
+}

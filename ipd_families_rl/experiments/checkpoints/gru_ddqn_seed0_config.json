@@ -1,0 +1,16 @@
+{
+  "steps": 20000,
+  "start_learning": 5000,
+  "batch_size": 128,
+  "buffer_size": 200000,
+  "gamma": 0.96,
+  "lr": 0.0003,
+  "target_update": 2000,
+  "eps_start": 1.0,
+  "eps_end": 0.05,
+  "eps_decay_steps": 100000,
+  "grad_clip": 10.0,
+  "seed": 0,
+  "device": "cuda",
+  "run_name": "gru_ddqn_seed0"
+}
